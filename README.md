@@ -28,9 +28,8 @@ The analysis answers three core questions:
 <img width="1838" height="806" alt="E-Commerce dashboard_overview png" src="https://github.com/user-attachments/assets/ea2dd604-3500-4092-9a5c-31b7c17f3ba5" />
 
 ---
-## tableau link
-
-[tableau]((https://public.tableau.com/app/profile/jai.siddharth/vizzes))
+##  tableau link
+[tableau](https://public.tableau.com/app/profile/jai.siddharth/vizzes)
 
 ---
 ## Key Findings
